@@ -1,0 +1,8 @@
+
+public class Profile {
+
+	public static void main(String[] args) {
+		System.out.println("My name is ¾çÈÆ¼®");
+		System.out.println("My age is 25");
+	}
+}
